@@ -107,7 +107,7 @@ npm run server.js
 #### 3. Get task details
 
 ```http
-  GET /api/tasks/${id}
+  GET /api/v1/tasks/${id}
 ```
 
 | Parameter | Type     | Description                       |
@@ -117,7 +117,7 @@ npm run server.js
 #### 4. Update task
 
 ```http
-  PUT /api/v1/tasks
+  PUT /api/v1/tasks/${id}
 ```
 
 | Parameter | Type     | Description                |
@@ -129,7 +129,7 @@ npm run server.js
 #### 5. Delete task
 
 ```http
-  DELETE /api/tasks/${id}
+  DELETE /api/v1/tasks/${id}
 ```
 
 | Parameter | Type     | Description                       |
@@ -149,7 +149,7 @@ To run tests, run the following command
 
 #### Facing an issue?
 
-Check the logs using the below command 
+Check the logs using the command below 
 ```bash
 tail -f *.log
 ```
@@ -160,9 +160,9 @@ tail -f *.log
 
 Contributions are always welcome!
 
-👉 Please follow the below instructions
+👉 Please follow the instructions below
 
-- Create a feature branch from main branch
+- Create a feature branch from the main branch
 - Commit your changes
-- Submit a PR to main branch
+- Submit a PR to the main branch
 
