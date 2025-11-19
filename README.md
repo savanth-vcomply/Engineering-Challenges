@@ -162,8 +162,7 @@ Contributions are always welcome!
 
 👉 Please follow the below instructions
 
-- Fork the repo
-- Create a feature branch
+- Create a feature branch from main branch
 - Commit your changes
-- Submit a PR
+- Submit a PR to main branch
 
