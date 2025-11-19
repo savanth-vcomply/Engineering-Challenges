@@ -1,6 +1,6 @@
-# 📌 TaskHub - A Simple Task Management API
+# 📌 TaskHub - A Simple Task Management API Service
 
-TaskHub is a simple lightweight task management backend service designed for small teams. It provides CRUD apis for users to create, update, delete and list the tasks. 
+TaskHub is a simple lightweight task management backend service designed for small teams. It provides CRUD APIs for users to create, update, delete, and list the tasks. 
 
 
 
@@ -12,16 +12,16 @@ TaskHub is a simple lightweight task management backend service designed for sma
 - Update task information 
 - Delete a task
 - Fetch all the tasks
-- Fetch a particular task information
+- Fetch the particular task information
 
 
 ## 📚 Tech Stack
 
-- Backend: Node.js
-- Database: PSQL
-- Cache: Redis
-- Auth: JWT
-- Deployment: Docker
+- *Backend*: Node.js
+- *Database*: PSQL
+- *Cache*: Redis
+- *Auth*: JWT
+- *Deployment*: Docker
 
 
 ## 📂 Folder Structure
