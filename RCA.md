@@ -7,7 +7,7 @@
 ---
 
 ## 1. Summary
-Yesterday, between 15:10 IST and 15:55 IST, the TaskHub dashboard page failed to load tasks for all users across the platform. Issue was resolved at 15:15 IST after correcting an incorrect configuration.
+Yesterday, between 15:10 IST and 15:55 IST, the TaskHub dashboard page failed to load tasks for all users across the platform. Issue was resolved at 15:55 IST after correcting an incorrect configuration.
 
 
 ## 2. Impact
