@@ -1,7 +1,7 @@
 # 🚨 Root Cause Analysis (RCA)
 
-**Incident Title:**  TaskHub API Outage — Tasks Not Loading
-**Date / Time (Start–End):**  24 Nov 2025, 15:10 - 15:55
+**Incident Title:**  TaskHub API Outage, Tasks Not Loading
+**Date / Time (Start–End):**  24 Nov 2025 [15:10 - 15:55]
 **Severity:**  Critical
 **Services Impacted:** TaskHub API Service 
 
